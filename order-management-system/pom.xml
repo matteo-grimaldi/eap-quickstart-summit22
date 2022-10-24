@@ -27,9 +27,9 @@
         <version>7.4.0.GA</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
-    <artifactId>kitchensink</artifactId>
+    <artifactId>order-management-system</artifactId>
     <packaging>war</packaging>
-    <name>Quickstart: kitchensink</name>
+    <name>Order Management System</name>
     <description>A starter Jakarta EE web application project for use in JBoss EAP</description>
 
     <licenses>
